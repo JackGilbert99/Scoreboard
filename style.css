@@ -1,0 +1,35 @@
+.chad {
+  background-image: url(https://img.freepik.com/premium-vector/football-arena-field-soccer-stadium-background-with-bright-spotlights_212889-4388.jpg?w=2000);
+  background-position: center;
+  background-size: 300vh;
+}
+
+.reset-button {
+  display: flex;
+  justify-content: flex-end;
+  border: solid #efefec;
+
+}
+
+.Teams {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid white;
+
+}
+
+.Score {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid white;
+}
+
+
+.ScoreButtons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid white;
+}
